@@ -1,2 +1,2 @@
-# sqlite3-amalgamation
+# sqlite3
 This repository contains a cmake based build of sqlite (and its tools) based on source download from sqlite.org and support Swift Package Manager
